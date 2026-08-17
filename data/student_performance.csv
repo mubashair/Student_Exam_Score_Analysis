@@ -1,0 +1,16 @@
+Student_ID,Name,Gender,Age,Study_Hours,Attendance,Assignments,Midterm,Previous_Score,Final
+1,Ali,M,16,5,90,9,75,72,80
+2,Ahmed,M,15,3,70,6,55,60,58
+3,Sara,F,16,7,95,10,88,85,92
+4,Fatima,F,15,6,92,9,82,80,87
+5,Usman,M,16,2,65,5,48,52,50
+6,Ayesha,F,15,8,98,10,92,90,95
+7,Bilal,M,16,4,80,7,65,68,72
+8,Zain,M,15,3,75,6,58,62,65
+9,Maryam,F,16,9,99,10,95,94,98
+10,Hassan,M,15,1,55,4,40,45,42
+11,Hina,F,16,6,88,8,78,75,82
+12,Hamza,M,15,5,85,8,72,70,76
+13,Noor,F,16,7,93,9,86,84,89
+14,Daniyal,M,15,2,60,5,50,48,52
+15,Eman,F,16,8,97,10,90,91,94
